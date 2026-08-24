@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://managers-deliver-pro-clock.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://stephen-put-poker-swaziland.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-24 15:45:02 UTC
+Created   : 2026-08-24 20:34:00 UTC
 =======================================================
