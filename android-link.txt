@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pediatric-touched-praise-sales.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://estates-headline-trusts-writes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-13 18:01:44 UTC
+Created   : 2026-09-13 22:11:50 UTC
 =======================================================
