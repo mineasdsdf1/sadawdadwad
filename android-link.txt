@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://extraordinary-talk-overhead-pitch.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://doing-predicted-suse-sake.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-15 03:05:53 UTC
+Created   : 2026-09-15 14:47:06 UTC
 =======================================================
