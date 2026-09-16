@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hand-toolbox-annually-heritage.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bone-westminster-expected-allowed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-16 18:49:31 UTC
+Created   : 2026-09-16 22:45:56 UTC
 =======================================================
