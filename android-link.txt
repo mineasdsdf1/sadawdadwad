@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tears-grants-mobiles-farmer.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://griffin-vary-happy-editorial.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-20 19:04:03 UTC
+Created   : 2026-10-20 23:04:59 UTC
 =======================================================
